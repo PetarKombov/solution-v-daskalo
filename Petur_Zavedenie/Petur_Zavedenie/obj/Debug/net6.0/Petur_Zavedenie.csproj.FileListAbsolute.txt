@@ -1,0 +1,15 @@
+C:\Users\STIDENTS-1409-14\Desktop\PetarKombov10a\Petur_Zavedenie\Petur_Zavedenie\bin\Debug\net6.0\Petur_Zavedenie.exe
+C:\Users\STIDENTS-1409-14\Desktop\PetarKombov10a\Petur_Zavedenie\Petur_Zavedenie\bin\Debug\net6.0\Petur_Zavedenie.deps.json
+C:\Users\STIDENTS-1409-14\Desktop\PetarKombov10a\Petur_Zavedenie\Petur_Zavedenie\bin\Debug\net6.0\Petur_Zavedenie.runtimeconfig.json
+C:\Users\STIDENTS-1409-14\Desktop\PetarKombov10a\Petur_Zavedenie\Petur_Zavedenie\bin\Debug\net6.0\Petur_Zavedenie.dll
+C:\Users\STIDENTS-1409-14\Desktop\PetarKombov10a\Petur_Zavedenie\Petur_Zavedenie\bin\Debug\net6.0\Petur_Zavedenie.pdb
+C:\Users\STIDENTS-1409-14\Desktop\PetarKombov10a\Petur_Zavedenie\Petur_Zavedenie\obj\Debug\net6.0\Petur_Zavedenie.csproj.AssemblyReference.cache
+C:\Users\STIDENTS-1409-14\Desktop\PetarKombov10a\Petur_Zavedenie\Petur_Zavedenie\obj\Debug\net6.0\Petur_Zavedenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STIDENTS-1409-14\Desktop\PetarKombov10a\Petur_Zavedenie\Petur_Zavedenie\obj\Debug\net6.0\Petur_Zavedenie.AssemblyInfoInputs.cache
+C:\Users\STIDENTS-1409-14\Desktop\PetarKombov10a\Petur_Zavedenie\Petur_Zavedenie\obj\Debug\net6.0\Petur_Zavedenie.AssemblyInfo.cs
+C:\Users\STIDENTS-1409-14\Desktop\PetarKombov10a\Petur_Zavedenie\Petur_Zavedenie\obj\Debug\net6.0\Petur_Zavedenie.csproj.CoreCompileInputs.cache
+C:\Users\STIDENTS-1409-14\Desktop\PetarKombov10a\Petur_Zavedenie\Petur_Zavedenie\obj\Debug\net6.0\Petur_Zavedenie.dll
+C:\Users\STIDENTS-1409-14\Desktop\PetarKombov10a\Petur_Zavedenie\Petur_Zavedenie\obj\Debug\net6.0\refint\Petur_Zavedenie.dll
+C:\Users\STIDENTS-1409-14\Desktop\PetarKombov10a\Petur_Zavedenie\Petur_Zavedenie\obj\Debug\net6.0\Petur_Zavedenie.pdb
+C:\Users\STIDENTS-1409-14\Desktop\PetarKombov10a\Petur_Zavedenie\Petur_Zavedenie\obj\Debug\net6.0\Petur_Zavedenie.genruntimeconfig.cache
+C:\Users\STIDENTS-1409-14\Desktop\PetarKombov10a\Petur_Zavedenie\Petur_Zavedenie\obj\Debug\net6.0\ref\Petur_Zavedenie.dll
